@@ -5,9 +5,15 @@ The main code of a discord bot that I made for my own server. For now, it sends 
 
 ## Commands
 
-`$list` : Responses list of keywords.
+`$zen off` : Makes bot off. Bot won't response commands after it's off.
 
-`$quote <keyword>` : Responses a random quote about keyword
+`$zen on` : Makes bot on.
+
+`$keywords` : Responses list of keywords.
+
+`$quote <keyword>` : Responses a random quote about keyword.
+
+`$random` : Responses a randomly picked quote.
 
 ## Replit
 
@@ -21,3 +27,11 @@ You can host anything on Replit, from your basic personal website to a full web 
 ## Restrictions
 
 The bot is not awake everytime. It goes offline after 1 hour with no requests.
+
+## Discord Server
+
+[Here](https://discord.gg/dY3z2DPh)
+
+## Resources
+
+[freeCodeCamp.org](https://www.youtube.com/watch?v=SPTfmiYiuok)
