@@ -24,11 +24,10 @@ You can host anything on Replit, from your basic personal website to a full web 
 [Reference](https://docs.replit.com/getting-started/intro-replit)
 
 
-## Restrictions
-
-The bot is not awake everytime. It goes offline after 1 hour with no requests.
-
 ## Discord Server
+
+
+![](ss.PNG)
 
 [Here](https://discord.gg/dY3z2DPh)
 
